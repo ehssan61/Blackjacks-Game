@@ -1,5 +1,4 @@
 # This file hold the test materials for the BlackJack Game 
-# CS5001 course Final project
 # Implemented by Ehsan Haghian
 # 4/24/2023
 
